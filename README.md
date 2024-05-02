@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloerice48
 - 👀 I’m interested in disease spread modelling, econometrics and mathematical models of human behaviour
-- 🌱 I’m currently learning about package creation and maintenance - I've always built my models for my use only!
+- 🌱 I’m currently learning about package creation and maintenance - my models are usually run as scripts on their own!
 - 💞️ I’m looking to collaborate on disease spread modelling and parameterisation 
 - 📫 How to reach me: email is best as I live in a very different timezone to the US and Europe -> chloe.burns@anu.edu.au 
 - 😄 Pronouns: She/her
